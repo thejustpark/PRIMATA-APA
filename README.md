@@ -6,7 +6,7 @@ Description
 -----
 To identify microRNA target site modification due to alternative polyadenylation (APA), either 3'UTR shortening or 3'UTR lengthening between normal and cancer cells, we developed a computational method (PRIMATA-APA) that first estimate the total number of target site for each microRNA with and without consieration of APA and estimate the statistical significance of the difference.  
 
-![An example of PRIMATA-APA on TCGA BRCA](https://c2.staticflickr.com/2/1973/30188425837_9644e27e97.jpg
+![An example of PRIMATA-APA on TCGA BRCA](https://c2.staticflickr.com/2/1973/30188425837_9644e27e97.jpg)
 
 
 Download
